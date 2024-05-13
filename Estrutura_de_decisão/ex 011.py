@@ -50,4 +50,4 @@ print(f'O seu salário atual é de R${aumento:.2f}\n ')
 print('====================')
 
 
-
+# Programa não está funcionando corretamente!
