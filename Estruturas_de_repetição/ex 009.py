@@ -15,7 +15,7 @@ def numeros_no_intervalo (num1, num2):
         print(numero, end=' ')
     
 
-# Solicitar dois números interios ao usuário;
+# Solicitar dois números interios ao usuário:
 numero1 = int(input('Digite um número inteiro: '))
 numero2 = int(input('Digite outro número inteiro: '))
 
